@@ -1,3 +1,7 @@
+# Marguitar 
+
+Listen and learn chords and learn to play guitar with this app, it also includes a Strings Tuner.
+
 Although it will show these messages but this file is 100% secure.
 
 ![image](https://user-images.githubusercontent.com/69301779/111862123-32b98800-8979-11eb-8f7e-4b85debff8c1.png)
